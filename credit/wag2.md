@@ -5,5 +5,3 @@
 
 ![MysticJoJo](https://a.facdn.net/1424255659/mysticjojo.gif)
 [**MysticJoJo**](https://www.furaffinity.net/user/mysticjojo)
-
-gg
