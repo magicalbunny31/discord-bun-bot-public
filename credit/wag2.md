@@ -1,3 +1,5 @@
+![image](https://d.facdn.net/art/mriya/1488278723/1322176369.mriya_chibioliver.gif)
+
 ![Aakashi](https://a.facdn.net/1517358367/aakashi.gif)
 [**Aakashi**](https://www.furaffinity.net/user/aakashi)
 
