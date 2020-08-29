@@ -1,6 +1,6 @@
 # bunny
 
-![bunny](https://github.com/magicalbunny31/discord-bunny-bot-public/blob/master/images/bunny.png)
+![bunny](https://github.com/magicalbunny31/discord-bunny-bot-public/blob/main/images/bunny.png)
 
 A furry Discord bot, also known as magicalbunny31's project!
 
