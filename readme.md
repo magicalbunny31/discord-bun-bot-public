@@ -13,8 +13,13 @@ If you're looking for image credit, you'll find them in a folder named `credit` 
 
 If for whatever reason you need to contact me about API usage and heck like that, you can do so by send me a message over at my [Discord server / support guild for bunny](https://discord.gg/5cE7AjX), or send me an [email](mailto:dzeiun@googlemail.com).
 
+Please do not hesitate to contact me (via above) regarding concerns with anything in this repository. I won't bite ya!
+
+Finally, I do not generate any revenue for this bot, bunny. And I do not plan to in the future. This is a non-profit hobby and a little project of mine too.
+
 ---
 
 This bot isn't open source. The code is stored elsewhere in a private repo for versioning.
+Even in there, there are no traces of tokens or keys which could be used.
 
-***Updated:** 31/07/2020*
+***Updated:** Sep-03-2020*
