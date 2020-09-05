@@ -19,7 +19,4 @@ Finally, I do not generate any revenue for this bot, bunny. And I do not plan to
 
 ---
 
-This bot isn't open source. The code is stored elsewhere in a private repo for versioning.
-Even in there, there are no traces of tokens or keys which could be used.
-
 ***Updated:** Sep-03-2020*
