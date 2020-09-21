@@ -27,4 +27,4 @@ Finally, I do not generate any revenue for this bot, bunny. This is (currently) 
 
 ---
 
-**Updated:** `Sep-17-2020`
+**Updated:** `Sep-21-2020`
