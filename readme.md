@@ -19,7 +19,7 @@ If you're looking for image credit, you'll find them in a folder named [`credit`
 
 The folder [`images`](https://github.com/magicalbunny31/discord-bunny-bot-public/tree/main/images "cClick this to jump to the folder!") is for (temporary) image hosting. You can find out more by reading the [`readme`](https://github.com/magicalbunny31/discord-bunny-bot-public/tree/main/images#readme "Click this to jump to the folder!").
 
-If for whatever reason you need to contact me about API usage and heck like that, you can do so by send me a message over at my [Discord server / support guild for bunny](https://discord.gg/5cE7AjX), or send me an [email](mailto:dzeiun@googlemail.com).
+If for whatever reason you need to contact me about API usage and heck like that, you can do so by [opening an issue on this repository](https://github.com/magicalbunny31/discord-bunny-bot-public/issues/new "Click this to open an issue!"), sending me a message over at my [Discord server / support guild for bunny](https://discord.gg/5cE7AjX "Click this to join my Discord server!"), or by sending me an [email](mailto:dzeiun@googlemail.com "Click this to start writing an email addressed to me!").
 
 Please do not hesitate to contact me (via above) regarding concerns with anything in this repository. I won't bite ya!
 
