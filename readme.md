@@ -23,7 +23,7 @@ If for whatever reason you need to contact me about API usage and heck like that
 
 Please do not hesitate to contact me (via above) regarding concerns with anything in this repository. I won't bite ya!
 
-Finally, I do not generate any revenue for this bot, bunny. And I do not plan to in the future. This is a non-profit hobby and a little project of mine too.
+Finally, I do not generate any revenue for this bot, bunny. This is (currently) a non-profit hobby and a little project of mine too.
 
 ---
 
