@@ -1,6 +1,6 @@
 # images
 
-This folder exists to host various images for the bot!
+This folder exists to host some images for the bot!
 
 If you have any issues regarding these images, please do not hesitate to contact me via my [Discord server](https://discord.gg/5cE7AjX) or [email](mailto:dzeiun@googlemail.com).
 ---
