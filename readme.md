@@ -2,8 +2,9 @@
 
 ![bunny](https://github.com/magicalbunny31/discord-bunny-bot-public/blob/main/images/bunny.png)
 
-A furry Discord bot made for helping make your server just that little bit better!<br/>
-..*Ambitious, right?*
+A furry Discord bot made for helping make your server just that little bit better!<br>
+..*Ambitious, right?*<br>
+[**Add bunny to your Discord server!**](https://discord.com/oauth2/authorize?client_id=555489775981953045&scope=bot&permissions=1005972679 "Click to open the invite link for bunny!")
 
 ---
 
@@ -28,4 +29,4 @@ Finally, I do not generate any revenue for this bot, bunny. This is (currently) 
 
 ---
 
-**Updated:** `Oct-03-2020`
+**Updated:** `OCT-17-2020`
