@@ -1,7 +1,7 @@
 # bun 🐾
 
 <!--- ![bun](https://github.com/magicalbunny31/discord-bunny-bot-public/blob/main/images/bunny.png) --->
-<img src="https://github.com/magicalbunny31/discord-bun-bot-public/blob/main/images/bun.png" title="bun" width="100" height="100"> <img src="https://github.com/magicalbunny31/discord-bun-bot-public/blob/main/images/bun.png" title="fox kit" width="100" height="100">
+<img src="https://github.com/magicalbunny31/discord-bun-bot-public/blob/main/images/bun.png" title="bun" width="100" height="100"> <img src="https://github.com/magicalbunny31/discord-bun-bot-public/blob/main/images/fox kit.png" title="fox kit" width="100" height="100">
 
 » hai! i'm bun, a sfw furry bot! 🐾🐰<br>
 
