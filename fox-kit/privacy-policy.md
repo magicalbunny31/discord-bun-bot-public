@@ -4,6 +4,9 @@ title: Privacy Policy › fox kit 🦊🐾
 
 <head>
    <link rel="icon" href="../images/fox-kit.png" type="image/png">
+   <meta name="theme-color" content="#e78522">
+   <meta property="og:description" content="the documentation for all things fox kit 🦊🐾">
+   <meta property="og:image" content="../images/fox-kit.png">
 </head>
 
 

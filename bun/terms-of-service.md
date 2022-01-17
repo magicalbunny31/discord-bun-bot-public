@@ -4,6 +4,9 @@ title: Terms of Service › bun 🐰🐾
 
 <head>
    <link rel="icon" href="../images/bun.png" type="image/png">
+   <meta name="theme-color" content="#c653ff">
+   <meta property="og:description" content="the documentation for all things bun 🐰🐾">
+   <meta property="og:image" content="../images/bun.png">
 </head>
 
 
