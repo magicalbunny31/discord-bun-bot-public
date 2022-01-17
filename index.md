@@ -2,7 +2,7 @@
 
 howdy!
 <br>
-are you lost?
+are ya lost?
 <br>
 you can go back to the main page if you wish~
 <br>
