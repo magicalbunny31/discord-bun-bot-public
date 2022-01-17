@@ -1,7 +1,7 @@
----
-title: Privacy Policy › fox kit 🦊🐾
-last_modified_at:
----
+<head>
+   <title>Privacy Policy › fox kit 🦊🐾</title>
+   <link rel="icon" href="../images/fox-kit.png" type="image/png">
+</head>
 
 
 # Privacy Policy 🦊🐾

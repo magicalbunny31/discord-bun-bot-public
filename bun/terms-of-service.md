@@ -1,7 +1,7 @@
----
-title: Terms of Service › bun 🐰🐾
-last_modified_at:
----
+<head>
+   <title>Terms of Service › bun 🐰🐾</title>
+   <link rel="icon" href="../images/bun.png" type="image/png">
+</head>
 
 
 # Terms of Service 🐰🐾

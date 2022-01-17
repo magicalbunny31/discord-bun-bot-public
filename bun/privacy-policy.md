@@ -1,7 +1,7 @@
----
-title: Privacy Policy › bun 🐰🐾
-last_modified_at:
----
+<head>
+   <title>Privacy Policy › bun 🐰🐾</title>
+   <link rel="icon" href="../images/bun.png" type="image/png">
+</head>
 
 
 # Privacy Policy 🐰🐾
