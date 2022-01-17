@@ -1,3 +1,9 @@
+---
+title: Terms of Service › bun 🐰🐾
+last_modified_at:
+---
+
+
 # Terms of Service 🐰🐾
 
 
@@ -26,7 +32,7 @@ discord's community guidelines 🐾").
 
 
 ### » The privacy policy 📩
-› Before you continue, you're advised to read `bun 🐰🐾`'s own **[privacy policy](https://example.com "https://example.com 🔗
+› Before you continue, you're advised to read `bun 🐰🐾`'s own **[privacy policy](https://magicalbunny31.github.io/discord-bun-bot-public/bun/privacy-policy "https://magicalbunny31.github.io/discord-bun-bot-public/bun/privacy-policy 🔗
 bun 🐰🐾's privacy policy")** regarding the data the bot collects.
 
 
@@ -75,7 +81,7 @@ magicalbunny31's website 🐾"), if you'd like to speak to him directly.
 
 
 ### » Where else can I find these terms? ❓
-› The terms of service can be found via `bun 🐰🐾`'s slash commands: **`/terms-of-service`**
+› The terms of service can be found via one of `bun 🐰🐾`'s slash commands: **`/terms-of-service`**
 <br>
-› You can also find them on `bun 🐰🐾`'s site, too: **[https://example.com](https://example.com "https://example.com 🔗
+› You can also find them on `bun 🐰🐾`'s site, too: **[https://magicalbunny31.github.io/discord-bun-bot-public/bun/terms-of-service](https://magicalbunny31.github.io/discord-bun-bot-public/bun/terms-of-service "https://magicalbunny31.github.io/discord-bun-bot-public/bun/terms-of-service 🔗
 bun 🐰🐾's terms of service")**
