@@ -21,7 +21,6 @@
 › `fox kit 🦊🐾`'s [terms of service](https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/terms-of-service "https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/terms-of-service 🔗")
 <br>
 › `fox kit 🦊🐾`'s [privacy policy](https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/privacy-policy "https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/privacy-policy 🔗")
-<br>
 
 ---
 
