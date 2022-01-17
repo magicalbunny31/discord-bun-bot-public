@@ -1,8 +1,8 @@
 ---
-colour: "#e78522"
+theme-color: "#e78522"
 title: "Terms of Service › fox kit 🦊🐾"
 description: "the documentation for all things fox kit 🦊🐾"
-avatar: "https://magicalbunny31.github.io/discord-bun-bot-public/images/fox-kit.png"
+image: "https://magicalbunny31.github.io/discord-bun-bot-public/images/fox-kit.png"
 ---
 
 <head>

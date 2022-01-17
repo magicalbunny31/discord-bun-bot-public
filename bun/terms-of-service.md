@@ -1,8 +1,8 @@
 ---
-colour: "#c653ff"
+theme-color: "#c653ff"
 title: "Terms of Service › bun 🐰🐾"
 description: "the documentation for all things bun 🐰🐾"
-avatar: "https://magicalbunny31.github.io/discord-bun-bot-public/images/bun.png"
+image: "https://magicalbunny31.github.io/discord-bun-bot-public/images/bun.png"
 ---
 
 <head>
