@@ -1,5 +1,8 @@
+---
+title: Terms of Service › bun 🐰🐾
+---
+
 <head>
-   <title>Terms of Service › bun 🐰🐾</title>
    <link rel="icon" href="../images/bun.png" type="image/png">
 </head>
 

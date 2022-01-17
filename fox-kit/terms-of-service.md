@@ -1,5 +1,8 @@
+---
+title: Terms of Service › fox kit 🦊🐾
+---
+
 <head>
-   <title>Privacy Policy › fox kit 🦊🐾</title>
    <link rel="icon" href="../images/fox-kit.png" type="image/png">
 </head>
 
