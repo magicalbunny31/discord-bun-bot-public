@@ -1,12 +1,12 @@
 ---
-title: Terms of Service › bun 🐰🐾
+colour: "#c653ff"
+title: "Terms of Service › bun 🐰🐾"
+description: "the documentation for all things bun 🐰🐾"
+avatar: "https://magicalbunny31.github.io/discord-bun-bot-public/images/bun.png"
 ---
 
 <head>
    <link rel="icon" href="../images/bun.png" type="image/png">
-   <meta name="theme-color" content="#c653ff">
-   <meta property="og:description" content="the documentation for all things bun 🐰🐾">
-   <meta property="og:image" content="../images/bun.png">
 </head>
 
 
