@@ -105,3 +105,6 @@ magicalbunny31's website 🐾"), if you'd like to speak to him directly.
 <br>
 › You can also find them on `bun 🐰🐾`'s site, too: **[https://magicalbunny31.github.io/discord-bun-bot-public/bun/privacy-policy](https://magicalbunny31.github.io/discord-bun-bot-public/bun/privacy-policy "https://magicalbunny31.github.io/discord-bun-bot-public/bun/privacy-policy 🔗
 bun 🐰🐾's privacy policy")**
+
+
+###### Last updated: January 18, 2022
