@@ -21,7 +21,7 @@ Please take a moment to read these policies before using the [Discord](https://d
 discord's website 🐾") bot **`bun 🐰🐾`**, made by [magicalbunny31](https://magicalbunny31.github.io "https://magicalbunny31.github.io 🔗
 magicalbunny31's website 🐾").
 <br>
-With each interaction you make with the bot, you are agreeing to the data being collected and used to provide you wil full functionality with `bun 🐰🐾`.
+With each interaction you make with the bot, you are accepting all the conditions here.
 <br>
 These notices apply regardless if you have read them or not.
 
@@ -107,4 +107,4 @@ magicalbunny31's website 🐾"), if you'd like to speak to him directly.
 bun 🐰🐾's privacy policy")**
 
 
-###### Last updated: January 18, 2022
+###### Last updated: February 1, 2022
