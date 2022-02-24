@@ -36,7 +36,7 @@ These notices apply regardless if you have read them or not.
 › - any user-inputted data from `bun 🐰🐾`'s commands
 
 
-### » Is this data shared? 📫
+### » Is this data shared? 📬
 › This data isn't disclosed to any third parties.
 <br>
 › It is only available to `bun 🐰🐾`'s scope.
