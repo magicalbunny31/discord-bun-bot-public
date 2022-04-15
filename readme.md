@@ -1,6 +1,6 @@
 # discord-bun-bot-public 🐰🦊🐾
 
-<img src="./images/bun.png" title="bun" width="100" height="100"> <img src="./images/fox-kit.png" title="fox kit" width="100" height="100"> <img src="./images/fox-bot.jpg" title="fox kit" width="100" height="100">
+<img src="./images/bun.png" title="bun" width="100" height="100"> <img src="./images/fox-kit.png" title="fox kit" width="100" height="100"> <img src="./images/fox-bot.jpg" title="fox bot" width="100" height="100">
 
 » "hai! i'm bun, a sfw furry bot! 🐰🐾"
 <br>
