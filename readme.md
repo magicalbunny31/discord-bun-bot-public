@@ -47,6 +47,9 @@
 
 › made by [magicalbunny31](https://magicalbunny31.github.io "https://magicalbunny31.github.io 🔗
 magicalbunny31's website 🐾") 🐾
+<br>
 » bun 🐰🐾 2019 - 2022
+<br>
 » fox kit 🦊🐾 2020 - 2022
+<br>
 » fox bot 🦊 2022
