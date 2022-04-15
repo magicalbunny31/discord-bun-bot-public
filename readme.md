@@ -1,9 +1,12 @@
 # discord-bun-bot-public 🐰🦊🐾
 
-<img src="./images/bun.png" title="bun" width="100" height="100"> <img src="./images/fox-kit.png" title="fox kit" width="100" height="100">
+<img src="./images/bun.png" title="bun" width="100" height="100"> <img src="./images/fox-kit.png" title="fox kit" width="100" height="100"> <img src="./images/fox-bot.jpg" title="fox kit" width="100" height="100">
 
-» "hai! i'm bun, a sfw furry bot! 🐰🐾"<br>
-» "hewwo! i'm fox kit! 🦊🐾"<br>
+» "hai! i'm bun, a sfw furry bot! 🐰🐾"
+<br>
+» "hewwo! i'm fox kit! 🦊🐾"
+<br>
+» "providing foxes for everybody~ 🦊"<br>
 
 ---
 
@@ -11,6 +14,8 @@
 › **`discord-bun-bot`**
 <br>
 › **`discord-fox-kit-bot`**
+<br>
+› **`discord-fox-bot`**
 
 ---
 
@@ -21,10 +26,14 @@
 › `fox kit 🦊🐾`'s [terms of service](https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/terms-of-service "https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/terms-of-service 🔗")
 <br>
 › `fox kit 🦊🐾`'s [privacy policy](https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/privacy-policy "https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/privacy-policy 🔗")
+<br>
+› `fox bot 🦊`'s [terms of service](https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/terms-of-service "https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/terms-of-service 🔗")
+<br>
+› `fox bot 🦊`'s [privacy policy](https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/privacy-policy "https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/privacy-policy 🔗")
 
 ---
 
-› this repository exists as a landing page for points of contact with **`bun 🐰🐾`** and **`fox-kit 🦊🐾`**
+› this repository exists as a landing page for points of contact with **`bun 🐰🐾`**, **`fox-kit 🦊🐾`** and **`fox-bot 🦊`**
 <br>
 › need to contact me about something?
 <br>
@@ -37,4 +46,7 @@
 </a>
 
 › made by [magicalbunny31](https://magicalbunny31.github.io "https://magicalbunny31.github.io 🔗
-magicalbunny31's website 🐾") 2019/2020 - 2022 🐾
+magicalbunny31's website 🐾") 🐾
+» bun 🐰🐾 2019 - 2022
+» fox kit 🦊🐾 2020 - 2022
+» fox bot 🦊 2022
