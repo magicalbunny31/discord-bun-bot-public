@@ -17,3 +17,7 @@ you can go back to the main page if you wish~
 › `fox kit 🦊🐾`'s [terms of service](https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/terms-of-service "https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/terms-of-service 🔗")
 <br>
 › `fox kit 🦊🐾`'s [privacy policy](https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/privacy-policy "https://magicalbunny31.github.io/discord-bun-bot-public/fox-kit/privacy-policy 🔗")
+<br>
+› `fox bot 🦊`'s [terms of service](https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/terms-of-service "https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/terms-of-service 🔗")
+<br>
+› `fox bot 🦊`'s [privacy policy](https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/privacy-policy "https://magicalbunny31.github.io/discord-bun-bot-public/fox-bot/privacy-policy 🔗")
