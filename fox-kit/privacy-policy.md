@@ -81,7 +81,7 @@ These notices apply regardless if you have read them or not.
 
 
 ### » I have a question.. 🗨️
-› You can join `fox kit 🦊🐾`'s [support server](https://discord.gg/6JDTH4Wzc3 "https://discord.gg/6JDTH4Wzc3 🔗
+› You can join `fox kit 🦊🐾`'s [support server](https://discord.gg/XwvkhBCSN3 "https://discord.gg/6JDTH4Wzc3 🔗
 join magicalbunny31's support server on discord! 🐾") by clicking that blue text.
 <br>
 › The developer of `fox kit 🦊🐾` is [magicalbunny31](https://magicalbunny31.github.io "https://magicalbunny31.github.io 🔗
